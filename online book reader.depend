@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1690460115 source:e:\online book reader\main.cpp
+	<iostream>
+	<vector>
+	<ctime>
+	<bits/stdc++.h>
+
+1690583683 source:e:\online book reader\book.cpp
+	"Book.hpp"
+
+1690585082 e:\online book reader\book.hpp
+	<iostream>
+	<vector>
+	<string>
+	<bits/stdc++.h>
+
+1690608326 source:e:\online book reader\user.cpp
+	"User.hpp"
+
+1690608326 e:\online book reader\user.hpp
+	"Book.hpp"
+
+1690608562 source:e:\online book reader\system.cpp
+	"System.hpp"
+
+1690608614 e:\online book reader\system.hpp
+	"User.hpp"
+	"Book.hpp"
+
